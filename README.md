@@ -1,7 +1,7 @@
-### Hello World ?
+### Loading...
 Persistent, ambitious, with sharp focus on details. I follow the principle „there is always a solution!”.
 
-I've started my programming journey with Python. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
+I've started my programming journey with <b>Python</b>. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
 
 Few months later, I've noticed I'm working as Backend .NET Developer Intern. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more!
 
@@ -11,10 +11,12 @@ Notes:
 <br>》Tricity (Gdańsk, Sopot, Gdynia), Poland - hybrid/remote.
 <br>》Backend .NET Developer Intern/Junior.
 <br>
+<br>
 
 ### Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natalia-czapska/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/natalia.czapska.1/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/natalia-czapska/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/>](https://www.facebook.com/natalia.czapska.1/)
+<br>
 <br>
 
 ### Scope

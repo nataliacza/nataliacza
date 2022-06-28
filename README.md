@@ -3,11 +3,11 @@ Persistent, ambitious, with sharp focus on details. I follow the principle „th
 
 I've started my programming journey with <b>Python</b>. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
 
-Few months later, I've noticed I'm working as Backend .NET Developer Intern. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more!
+Few months later, I've noticed I'm working as <b>Backend .NET Developer Intern</b>. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more!
 
-Previously I was working as a Security Administrator - I have learned to work in an international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures. I always offer advice and help in the team. My previous professional experience has convinced me that I am able to create and implement big projects without previous experience.
+Previously I was working as a <b>Security Administrator</b> - I have learned to work in an international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures. I always offer advice and help in the team. My previous professional experience has convinced me that I am able to create and implement big projects without previous experience.
 
-Notes:
+<b>Notes:</b>
 <br>》Tricity (Gdańsk, Sopot, Gdynia), Poland - hybrid/remote.
 <br>》Backend .NET Developer Intern/Junior.
 <br>

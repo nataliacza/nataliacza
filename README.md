@@ -7,14 +7,15 @@ Few months later, I've noticed I'm working as Backend .NET Developer Intern. I'v
 
 Previously I was working as a Security Administrator - I have learned to work in an international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures. I always offer advice and help in the team. My previous professional experience has convinced me that I am able to create and implement big projects without previous experience.
 
-Notes:
-》Tricity (Gdańsk, Sopot, Gdynia), Poland - hybrid/remote.
-》Backend .NET Developer Intern/Junior.
+<br>Notes:
+<br>》Tricity (Gdańsk, Sopot, Gdynia), Poland - hybrid/remote.
+<br>》Backend .NET Developer Intern/Junior.
 
 <br>## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natalia-czapska/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />]
 (https://www.facebook.com/natalia.czapska.1)
+<br>
 
 <br>## Scope
 <img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />

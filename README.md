@@ -1,7 +1,7 @@
 ### Loading...
 Persistent, ambitious, with sharp focus on details. I follow the principle „there is always a solution!”.
 
-I've started my programming journey with <b>Python</b>. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
+I've started my programming journey with <b>Python :snake:</b>. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
 
 Few months later, surprisingly, I was working as <b>Backend .NET Developer Intern</b>. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more!
 

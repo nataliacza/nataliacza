@@ -8,8 +8,8 @@ Few months later, surprisingly, I was working as <b>Backend .NET Developer Inter
 Previously I was working as a <b>Security Administrator</b> - I have learned to work in an international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures. I always offer advice and help in the team. My previous professional experience has convinced me that I am able to create and implement big projects without previous experience.
 
 <b>Notes:</b>
-<br>》Gdańsk, Poland - hybrid/remote.
-<br>》Backend Developer Intern/Junior.
+<br>:point_right: Gdańsk, Poland - hybrid/remote.
+<br>:point_right: Backend Developer Intern/Junior.
 <br>
 <br>
 

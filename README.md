@@ -3,7 +3,9 @@ Persistent, ambitious, with sharp focus on details. I follow the principle „th
 
 I've started my programming journey with <b>Python :snake:</b>. During 280-hours bootcamp I've learned language syntax, whats going on with OPP, had a chance to meet new friends like Django, SQL and others.
 
-Few months later, surprisingly, I was working as <b>Backend .NET Developer Intern</b>. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more - all starting from scratch! Later on I've decided I want to <b>continue my growth with Python</b> and it was possible thanks to <b>Capgemini Engineering Smart Tech Start internship</b>.
+Few months later, surprisingly, I was working as <b>Backend .NET Developer Intern</b>. I've met another new friends like C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum, Jira and many, many more - all starting from scratch!
+
+Later on I've decided I want to <b>continue my growth with Python</b> and it was possible thanks to <b>Capgemini Engineering Smart Tech Start internship</b>.
 
 Previously I was working as a <b>Security Administrator</b> - I have learned to work in an international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures. I always offer advice and help in the team. My previous professional experience has convinced me that I am able to create and implement big projects without previous experience.
 

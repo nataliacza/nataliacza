@@ -1,23 +1,23 @@
 ### :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button::white_square_button: LOADING...
-Persistent, ambitious, with sharp focus on details. I follow the principle „there is always a solution!”.
+Persistent, ambitious, with sharp focus on details. I follow the principle „there must be a solution!”.
 
 I have started my programming journey with <b>Python :snake:</b>. For the passed few years I have been working with: `Django`, `FastAPI`, `JWT`, `SQLite`, `PostgreSQL`, `SQLAlchemy`, `Docker`, `pytest`, `unittest`, `Jira`, `Jenkins`, `GIT`, `Git Hub`, `poetry`.
 
 #### Experience in IT sector:
-1. <b>International Security Administrator</b> (3 years)
-- SailPoint IIQ, IAM, BMC Remedy
+1. <b>Junior Python Developer</b> (since December 2022, >6 months)
+- Python 3, unittest, Docker, GIT, Git Hub, GraphQL, RedwoodJS, Jenkins, Robot Framework, Jira
+2. <b>Software Engineer Intern</b> (3 months)
+- Python 3, FastAPI, Docker, GIT, GitLab, Git Hooks, CI/CD, PostgreSQL, Reddis, RabbitMQ, SQLAlchemy, Poetry
 3. <b>Backend .NET Developer Intern</b> (4 months)
 - C#, EntityFramework, REST API, AutoMapper, LINQ, Scrum
-4. <b>Software Engineer Intern</b> (3 months)
-- Python 3, FastAPI, Docker, GIT, GitLab, Git Hooks, CI/CD, PostgreSQL, Reddis, RabbitMQ, SQLAlchemy, Poetry
-5. <b>Junior Python Backend Developer</b> (since December 2022, >6 months)
-- Python 3, unittest, Docker, GIT, Git Hub, GraphQL, RedwoodJS, Jenkins, Robot Framework, Jira
+4. <b>International Security Administrator</b> (3 years)
+- SailPoint IIQ, IAM, BMC Remedy
 
 I am finding myself very well in corporate and international environment. Solving my own and others’ issues has become my forte, while at the same time following corporate procedures.
 
-<b>Notes:</b>
+<b>Target:</b>
 <br>:point_right: Gdańsk, Poland - hybrid/remote.
-<br>:point_right: Backend Developer Intern/Junior.
+<br>:point_right: Junior Python Developer / Security Administrator.
 <br>
 <br>
 
